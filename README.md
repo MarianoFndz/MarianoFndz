@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mariano Fernandez</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">❤ A passionate frontend developer from Argentina</h3>
 
 <p align="center">- 💻 I’m currently learning <strong> Next.js, Node.js, etc. All topics about Web Development </strong></p>
 
 <p align="center">- 💬 Ask me about <strong>Javascript, CSS, React.js</strong></p>
 
 <p align="center">- 📫 How to reach me <strong>marianofernandez2480@gmail.com</strong></p>
-
-<p align="center">- 📄 Know about my experiences <strong>professionalizing practices in highschool</strong></p>
-
-<p align="center">- 🍾 Fun fact <strong>I like play games and learn about web development</strong></p>
 
 
 <h3 align="center">Connect with me:</h3>
